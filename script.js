@@ -8,4 +8,5 @@ if (firstletter =='j') {
   window.helloSpeaker.speak(names[i]);
 }
 }
+  
 })(window);
